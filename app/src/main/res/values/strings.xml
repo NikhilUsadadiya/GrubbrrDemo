@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RoomMVVMCrudApp</string>
+    <string name="app_name">GrubbrrApp</string>
 
     <string name="to_time">Please select to time</string>
     <string name="alert_valid_email">Please enter valid email id</string>
