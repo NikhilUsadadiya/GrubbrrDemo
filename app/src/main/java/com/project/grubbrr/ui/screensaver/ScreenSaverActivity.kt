@@ -27,7 +27,6 @@ class ScreenSaverActivity : BaseNewActivity() {
 
         ivScreenSaver = findViewById(R.id.ivScreenSaver)
 
-
         db!!.screenSaverMastersDao.getAllData().observe(this, Observer { user ->
             try {
                 var i = 0
