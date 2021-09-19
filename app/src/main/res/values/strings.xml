@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RoomMVVMCrudApp</string>
+
+    <string name="to_time">Please select to time</string>
+    <string name="alert_valid_email">Please enter valid email id</string>
+    <string name="alert_password">Please enter password</string>
+    <string name="alert_password_valid"> must have one Uppercase letter, one Lowercase letter one number </string>
+    <string name="alert_password_length">Minimum length 6 characters</string>
+    <string name="alert_phone_length">Minimum length 10 digits</string>
+    <string name="alert_language">Please select your language</string>
+    <string name="camera_permission">Please make sure to enable camera permission</string>
+    <string name="sure_to_logout">Are you sure you want to logout?</string>
+    <string name="sure_to_deactivate">Are you sure you want to Deactivate?</string>
+    <string name="sure_to_activate">Are you sure you want to Reactivate?</string>
+    <string name="sure_to_cancel_plan">You are requesting to unsubscibe from </string>
+    <string name="alert_preference_null">Please register yourself.....</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="please_login">Please login to access the Application…</string>
+    <string name="alert_video_name">Please enter Video name</string>
+    <string name="alert_tag">Plese enter Tag</string>
+    <string name="alert_auto_generated_id">Please enter Auto-Generated Video ID</string>
+    <string name="alert_video_id">Please enter Video ID</string>
+    <string name="alert_additional_note">Please enter Additional Notes</string>
+    <string name="alert_promo_code">Please enter Promo Code</string>
+    <string name="alert_card_holder">Please enter Card Holder Name</string>
+    <string name="alert_card_number">Please enter Card Number</string>
+    <string name="alert_cvv">Please enter CVV</string>
+    <string name="alert_expire_month">Please enter Expire Month</string>
+    <string name="alert_expire_year">Please enter Expire Year</string>
+    <string name="alert_expiration_date">Please enter Expiration Date</string>
+    <string name="alert_security_code">Please enter Security Code</string>
+    <string name="title">Title</string>
+</resources>
